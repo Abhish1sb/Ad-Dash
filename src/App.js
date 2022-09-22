@@ -1,10 +1,11 @@
 import React from 'react'
 
+import './App.css';
+
 const App = () => {
   return (
     <div>
-    <h1>this is the heading of the app page :] </h1>
-    <h1>please add the other components here so that the code is more organised:-</h1>
+    <h1 className="underline text-3xl">Import the different components :)</h1>
     </div>
   )
 }
